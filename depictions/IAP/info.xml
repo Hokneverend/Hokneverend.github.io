@@ -1,0 +1,43 @@
+<package>
+	<id>com.laxus.iosgodsiapcracker</id>
+	<name>IAP</name>
+	<version>1.0-2+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Free iAP Purchase for some apps and games. expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+</shortDescription>
+	<descriptionlist>
+		<description>Free iAP Purchase for some apps and games. expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Free iAP Purchase for some apps and games. expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Free iAP Purchase for some apps and games. expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/Hokneverend</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

@@ -1,0 +1,28 @@
+Package: com.hnd.test
+Version: 1.0
+Section: Tweaks
+Maintainer: Hokneverend<chhayhokkh532@gmail.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/A Test Tweak.deb
+Size: 854
+MD5sum: c92d4235cdbdd334224f66ed611fc0e0
+Description: This is a test package.
+Name: Test package
+Author: Hokneverend <chhayhokkh532@gmail.com>
+Depiction: A Test tweak
+
+Package: com.iap.cracker
+Name: IAP
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Free iAP Purchase for some apps and games. expect much. Turn on the tweak inside iOS Settings. This tweak is made By Me supported A12 / A13 devices
+Maintainer: Hok
+Author: Hok
+Section: Tweaks
+Version: 1.0-2+debug
+Installed-Size: 296
+Size: 18412
+MD5sum: f609fdef7758b9f6c5b544781c58ded7
+Filename: ./debs/IAP.deb
+Depition: https://hokneverend.github.io/Hokneverend/repo/depictions/?p=IAP
